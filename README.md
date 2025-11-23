@@ -48,6 +48,11 @@ Atualmente, combino minha experiência em biologia evolutiva com ferramentas mod
 
 ---
 
+### 📝 Escrita Técnica & Blog
+Além de codificar, gosto de documentar processos e ensinar conceitos de biologia molecular e dados.
+* [Data Science & Biologia](https://datascience.home.blog/) - Blog pessoal onde discuto metodologias (ex: Desenho de Primers).
+* *(Em breve)* Desafios na digitalização 3D de espécimes biológicos.
+
 ### 📈 GitHub Stats
 
 ![Erica's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaems&show_icons=true&theme=radical)
